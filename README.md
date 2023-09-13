@@ -61,10 +61,10 @@ Here are some of the technologies and skills I'm proficient in:
 
 I love working on interesting projects in my free time. Here are a few of my recent projects:
 
-1. TRND Store - Personal website that I created and designed to start an online shop.
+1. TRND Store - Personal website that I created and designed to start an online shop 🛒.
 2. Heart of the City Project - Employed the utilization of Figma to design a website for the Heart of the City ❤️. 
-3. Business Strategy Plan for Mcdonald's - Group project to create a strategic plan for Mcdonald's to promote innovation and sustainability. 
-4. Feature Wedding Business Plan - Group project to showcase a business plan for the Feature Wedding company to help them succeed.
+3. Business Strategy Plan for Mcdonald's - Group project to create a strategic plan for Mcdonald's to promote innovation and sustainability 🍟. 
+4. Feature Wedding Business Plan - Group project to showcase a business plan for the Feature Wedding company to help them succeed 👰 .
 
 ## Let's Connect!
 
