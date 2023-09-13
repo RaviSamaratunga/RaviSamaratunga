@@ -34,13 +34,15 @@ would be a pleasure to integrate my skillset with your ideas/needs
 
 Here are some of the technologies and skills I'm proficient in:
 
-- Problem Solving    
-- Critical Thinking
-- Leadership
-- Tableau
-- Python
-- SQL
-- Figma
+- **Problem Solving**   
+- **Critical Thinking**
+- **Leadership**
+- **Tableau**
+- **Python**
+- **SQL**
+- **Figma**
+
+More listed below
 
 ### 🧰 LANGUAGES AND TOOLS
 
