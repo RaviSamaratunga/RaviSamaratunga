@@ -30,7 +30,6 @@ would be a pleasure to integrate my skillset with your ideas/needs
 - 📫 How to reach me: samaratungar@gmail.com
 - 😄 Pronouns: he/him
 
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -43,11 +42,7 @@ would be a pleasure to integrate my skillset with your ideas/needs
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-          
-          
-          
-          
-          
+                                    
 <br>
 
 ## Skills
@@ -74,7 +69,6 @@ I love working on interesting projects in my free time. Here are a few of my rec
 ## Let's Connect!
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
-
 - LinkedIn : https://www.linkedin.com/in/ravi-samaratunga/
 
 Thanks for stopping by! 😊
