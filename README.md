@@ -21,7 +21,7 @@ would be a pleasure to integrate my skillset with your ideas/needs
 
 ---
 
-## About Me 
+## ABOUT ME
 
 - 🔭 I'm currently a student at the University of Auckland.
 - 🌱 I'm constantly learning and exploring new technologies.
@@ -30,7 +30,7 @@ would be a pleasure to integrate my skillset with your ideas/needs
 - 📫 How to reach me: samaratungar@gmail.com
 - 😄 Pronouns: he/him
 
-### 🧰 Languages and Tools
+### 🧰 LANGUAGES AND TOOLS
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -45,7 +45,7 @@ would be a pleasure to integrate my skillset with your ideas/needs
                                     
 <br>
 
-## Skills
+## SKILLS
 
 Here are some of the technologies and skills I'm proficient in:
 
@@ -57,7 +57,7 @@ Here are some of the technologies and skills I'm proficient in:
 - SQL
 - Figma
 
-## Projects
+## PEOJECTS
 
 I love working on interesting projects in my free time. Here are a few of my recent projects:
 
@@ -66,7 +66,7 @@ I love working on interesting projects in my free time. Here are a few of my rec
 3. Business Plan for Mcdonald's - Project to create a strategic plan for Mcdonald's to promote innovation and sustainability 🍟. 
 4. Feature Wedding Business Plan - Project to showcase a business plan for the Feature Wedding company to help them succeed 👰 .
 
-## Let's Connect!
+## LETS CONNECT!
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
 - LinkedIn : https://www.linkedin.com/in/ravi-samaratunga/
