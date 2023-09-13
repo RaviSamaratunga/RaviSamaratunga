@@ -57,6 +57,8 @@ Here are some of the technologies and skills I'm proficient in:
 
 <br>
 
+---
+
 ## 💼 *PROJECTS*
 
 I love working on interesting projects in my free time. Here are a few of my recent projects:
