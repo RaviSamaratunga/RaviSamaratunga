@@ -1,51 +1,41 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Role/Profession] from [Your Location]. Welcome to my GitHub profile!
+I'm Ravi Samaratunga, a passionate Information Technologist from Auckland, New Zealand. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I'm currently working on [Current Project/Job].
+- 🔭 I'm currently a student at the University of Auckland.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 👯 I'm open to collaborating on exciting open-source projects.
-- 💬 Ask me about [Your Expertise/Interests].
-- 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns]
+- 💬 Ask me about Data Management, Front-End Development, or ANYTHING IT RELATED!!.
+- 📫 How to reach me: samaratungar@gmail.com
+- 😄 Pronouns: he/him
 
 ## Skills
 
 Here are some of the technologies and skills I'm proficient in:
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+- Problem Solving    
+- Critical Thinking
+- Leadership
+- Tableau
+- Python
+- SQL
+- Figma
 
 ## Projects
 
 I love working on interesting projects in my free time. Here are a few of my recent projects:
 
-1. [Project Name](Link to Project Repository) - Brief description of the project.
-2. [Project Name](Link to Project Repository) - Brief description of the project.
-3. [Project Name](Link to Project Repository) - Brief description of the project.
-4. [Project Name](Link to Project Repository) - Brief description of the project.
-
-You can find more of my projects on my [GitHub profile](https://github.com/YourGitHubUsername).
-
-## Open Source Contributions
-
-I'm a strong believer in the power of open source. Here are some of my contributions:
-
-1. [Contribution Name](Link to Contribution Repository) - Describe your contribution.
-2. [Contribution Name](Link to Contribution Repository) - Describe your contribution.
-3. [Contribution Name](Link to Contribution Repository) - Describe your contribution.
+1. TRND Store - Personal website that I created and designed to start an online shop.
+2. Heart of the City Project - Employed the utilization of Figma to design a website for the Heart of the City ❤️. 
+3. Business Strategy Plan for Mcdonald's - Group project to create a strategic plan for Mcdonald's to promote innovation and sustainability. 
+4. Feature Wedding Business Plan - Group project to showcase a business plan for the Feature Wedding company to help them succeed.
 
 ## Let's Connect!
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Dev.to](Your Dev.to Profile URL)
+- LinkedIn : https://www.linkedin.com/in/ravi-samaratunga/
 
 Thanks for stopping by! 😊
