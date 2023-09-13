@@ -1,4 +1,4 @@
-# 😇 Ravi Samaratunga
+# 🌻 Ravi Samaratunga
 
 **`Information Technologist(Data Management/Front-End Developer/Creator)`**
 
@@ -21,7 +21,7 @@ would be a pleasure to integrate my skillset with your ideas/needs
 
 ---
 
-## ABOUT ME
+## 🥱 *ABOUT ME*
 
 - 🔭 I'm currently a student at the University of Auckland.
 - 🌱 I'm constantly learning and exploring new technologies.
@@ -29,6 +29,18 @@ would be a pleasure to integrate my skillset with your ideas/needs
 - 💬 Ask me about Data Management, Front-End Development, or ANYTHING IT RELATED!!.
 - 📫 How to reach me: samaratungar@gmail.com
 - 😄 Pronouns: he/him
+
+## 💡 *SKILLS*
+
+Here are some of the technologies and skills I'm proficient in:
+
+- Problem Solving    
+- Critical Thinking
+- Leadership
+- Tableau
+- Python
+- SQL
+- Figma
 
 ### 🧰 LANGUAGES AND TOOLS
 
@@ -42,22 +54,10 @@ would be a pleasure to integrate my skillset with your ideas/needs
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-                                    
+
 <br>
 
-## SKILLS
-
-Here are some of the technologies and skills I'm proficient in:
-
-- Problem Solving    
-- Critical Thinking
-- Leadership
-- Tableau
-- Python
-- SQL
-- Figma
-
-## PEOJECTS
+## 💼 *PROJECTS*
 
 I love working on interesting projects in my free time. Here are a few of my recent projects:
 
@@ -66,7 +66,7 @@ I love working on interesting projects in my free time. Here are a few of my rec
 3. Business Plan for Mcdonald's - Project to create a strategic plan for Mcdonald's to promote innovation and sustainability 🍟. 
 4. Feature Wedding Business Plan - Project to showcase a business plan for the Feature Wedding company to help them succeed 👰 .
 
-## LETS CONNECT!
+## 🔗 *LETS CONNECT!*
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on:
 - LinkedIn : https://www.linkedin.com/in/ravi-samaratunga/
